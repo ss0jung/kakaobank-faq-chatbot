@@ -208,3 +208,7 @@ marimo/_lsp/
 __marimo__/
 kakaobank_faq_final.json
 faq_embeddings.npy
+_archive/
+my_vectorstore/
+faiss_kakaobank_faq_index/index.faiss
+faiss_kakaobank_faq_index/index.pkl
